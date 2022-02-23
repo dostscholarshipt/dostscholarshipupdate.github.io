@@ -1,0 +1,21 @@
+body{
+    background-image: url("icon.jpg"); 
+    height: 2000px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+}
+.imahe{
+    width: 100px;
+    height: 200px;
+}
+
+.boton{
+    width: 50px;
+    border-radius: 70%;
+}
+
+.h1{
+    font-weight: bolder;
+}
